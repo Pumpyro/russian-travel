@@ -1,0 +1,9 @@
+.header__logo-link {
+  transition: opacity 0.3s linear;
+  margin: 0;
+  padding: 0;
+}
+.header__logo-link:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
