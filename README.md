@@ -4,5 +4,8 @@ Russian Travel - проект, показывающий множество кр�
 
 ## Стек:
 
-HTML
-CSS
+* HTML
+* CSS
+
+## Ссылка на проект
+* [Github Pages](https://pumpyro.github.io/russian-travel/)
