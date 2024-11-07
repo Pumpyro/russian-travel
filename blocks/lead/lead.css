@@ -1,0 +1,23 @@
+.lead {
+  margin-top: 56px;
+  padding: 0 148px;
+  max-width: calc(984px + 96px);
+}
+
+@media (max-width: 1100px) {
+  .lead {
+    padding: 0 58px;
+  }
+}
+@media (max-width: 1024px) {
+  .lead {
+    margin-top: 48px;
+    padding: 0 48px;
+    max-width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .lead {
+    padding: 0;
+  }
+}
